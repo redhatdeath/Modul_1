@@ -7,7 +7,6 @@ public class Main {
         // float, double;
         // char;
         // boolean;
-
         // Not primitive -> Others
 
         // Init input System - input from "console"
