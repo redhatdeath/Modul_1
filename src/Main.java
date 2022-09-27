@@ -17,7 +17,8 @@ public class Main {
         System.out.println(" f1 ^ f2 = " + (f1 ^ f2));
         System.out.println(" !f1 && f2 = " + (!f1 && f2));
         System.out.println(" f1 && !f2 = " + (f1 && !f2));
-        // only one from this two strings: 21 or 22
+
+        // only one from this two strings: 22 or 23
         boolean f3 = 5 < 8;
         //boolean f3 = 5 > 8;
 
