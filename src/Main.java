@@ -74,6 +74,16 @@ public class Main {
             default:
                 System.out.println(" It case other");
         }
+        //ternar operation
+        // (<question>?<true>:<false>)
+        while (true) {
+            System.out.print("input X:\n");
+            int y = scanner.nextInt();
+            System.out.println(
+                    (y % 5 == 0)
+                            ? ((y % 2 == 0) ? "kratno 10" : "kranto 5")
+                            : "ne kratno");
 
+        }
     }
 }
